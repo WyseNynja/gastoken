@@ -1,6 +1,6 @@
 pragma solidity ^0.4.10;
 
-import "rlp.sol";
+import "./rlp.sol";
 
 contract GasToken2 is Rlp {
     //////////////////////////////////////////////////////////////////////////
